@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.head{
+    margin-top: -10px;
+    font-size: 70px;
+    font-family: 'Fascinate', cursive;
+    text-align: center;
+    color: rgb(208,84,48);
+}
+
+.slogan{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: white;
+    inline-size: 150px;
+    margin-left: 550px;
+}
+
+#canvas{
+    background-color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#color{
+    margin-left: 20px;
+}
+
+#width{
+    margin-left: 20px;
+
+}
+
+.px{
+    color: aliceblue;
+}
+
+.kalvium{
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
